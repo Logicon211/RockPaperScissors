@@ -1,0 +1,12 @@
+<qnx>
+  <initialWindow>
+    <systemChrome>none</systemChrome>
+    <transparent>false</transparent>
+  </initialWindow>
+  <publisher>Logan Marks</publisher>
+  <category>core.games</category>
+  <icon>
+  	<image>TheUltimateDecisionator-icon.png</image>
+  </icon>
+  <splashscreen>TheUltimateDecisionator-splash.png</splashscreen>
+</qnx>
